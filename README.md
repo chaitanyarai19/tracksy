@@ -1,7 +1,7 @@
 <h1 align='center'> Welcome to Tracksy :chart_with_upwards_trend: </h1>
 
 ## Inspiration :bulb:
- To ease the teachers from last minute headaches running to complete left off topics by keeping a track of it we thought of developing a web-application that does the same .
+ To ease the teachers from last minute headaches running to complete left off topics, by keeping a track of it we thought of developing a web-application that does the same .
 
 
 ## What it does? :gear:
