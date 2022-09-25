@@ -11,7 +11,6 @@ This way he/she can keep a track of the syllabus & get rid off from the last min
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ## How we built it? :hammer_and_wrench:	
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 - We used Html, css, jQuery, ajax & Javascript in the frontend and Php for the backend with Mysql as our database. 
 
@@ -25,12 +24,15 @@ the topics picture for tracking.
 - For the students we have another resource section where teacher and student both can contribute for resources such as notes,imp questions,time table etc. Only teachers have rights to create and delete subjects for resources , students can only see or upload the resources for that topic 
 they can't add or delete the topics.
 
-## Challenges we ran into 	:warning:
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
+## Challenges we ran into 	:warning:
 - We faced an issue while creating different sections for teachers & students.
 - Next challenge we faced was while integrating webcam / camera access in our web application.
 - Another challenge was to put enable & disable constraints differently for admins & users at the same time.
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ## Accomplishments we are proud of :woman_office_worker::technologist:
 - We are proud to make this project functional and working to help our teachers in a certain manner. 
