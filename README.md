@@ -17,7 +17,7 @@ This way he/she can keep a track of the syllabus & get rid off from the last min
 
 - We have made two different sections for teachers and students.
 
- -Teachers can add their subject & automatically the section is designed and inside that they can create  topics for that subject  .
+-Teachers can add their subject & automatically the section is designed and inside that they can create  topics for that subject  .
 
 - After creating topics the teacher can keep a track of the syllabus , they just have to click the pic of that topic which is completed in the class on uploading it the section turns green . After that no changes can be made to that section. Teachers have rights to create and delete the subject before uploading 
 the topics picture for tracking.
