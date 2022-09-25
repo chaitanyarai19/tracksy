@@ -1,0 +1,176 @@
+[23-Sep-2022 18:24:41 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/api/register.api.php on line 10
+[23-Sep-2022 18:38:02 UTC] PHP Warning:  include(../config/db/connection.php): Failed to open stream: No such file or directory in /home3/blood33a/public_html/tracksy/api/login.api.php on line 2
+[23-Sep-2022 18:38:02 UTC] PHP Warning:  include(): Failed opening '../config/db/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/blood33a/public_html/tracksy/api/login.api.php on line 2
+[23-Sep-2022 18:38:02 UTC] PHP Warning:  Undefined variable $conn in /home3/blood33a/public_html/tracksy/api/login.api.php on line 10
+[23-Sep-2022 18:38:02 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/blood33a/public_html/tracksy/api/login.api.php:10
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/login.api.php(10): mysqli_query(NULL, 'SELECT id, emai...')
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/login.api.php on line 10
+[23-Sep-2022 18:38:07 UTC] PHP Warning:  include(../config/db/connection.php): Failed to open stream: No such file or directory in /home3/blood33a/public_html/tracksy/api/login.api.php on line 2
+[23-Sep-2022 18:38:07 UTC] PHP Warning:  include(): Failed opening '../config/db/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/blood33a/public_html/tracksy/api/login.api.php on line 2
+[23-Sep-2022 18:38:07 UTC] PHP Warning:  Undefined variable $conn in /home3/blood33a/public_html/tracksy/api/login.api.php on line 10
+[23-Sep-2022 18:38:07 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/blood33a/public_html/tracksy/api/login.api.php:10
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/login.api.php(10): mysqli_query(NULL, 'SELECT id, emai...')
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/login.api.php on line 10
+[23-Sep-2022 18:38:17 UTC] PHP Warning:  include(../config/db/connection.php): Failed to open stream: No such file or directory in /home3/blood33a/public_html/tracksy/api/login.api.php on line 2
+[23-Sep-2022 18:38:17 UTC] PHP Warning:  include(): Failed opening '../config/db/connection.php' for inclusion (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home3/blood33a/public_html/tracksy/api/login.api.php on line 2
+[23-Sep-2022 18:38:17 UTC] PHP Warning:  Undefined variable $conn in /home3/blood33a/public_html/tracksy/api/login.api.php on line 10
+[23-Sep-2022 18:38:17 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, null given in /home3/blood33a/public_html/tracksy/api/login.api.php:10
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/login.api.php(10): mysqli_query(NULL, 'SELECT id, emai...')
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/login.api.php on line 10
+[23-Sep-2022 18:41:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/api/register.api.php on line 10
+[24-Sep-2022 05:55:07 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/api/register.api.php on line 10
+[24-Sep-2022 07:13:12 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/blood33a/public_html/tracksy/api/topic.api.php:28
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/topic.api.php(28): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/topic.api.php on line 28
+[24-Sep-2022 07:13:53 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/blood33a/public_html/tracksy/api/topic.api.php:28
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/topic.api.php(28): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/topic.api.php on line 28
+[24-Sep-2022 07:14:58 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/blood33a/public_html/tracksy/api/topic.api.php:28
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/topic.api.php(28): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/topic.api.php on line 28
+[24-Sep-2022 07:16:14 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/blood33a/public_html/tracksy/api/topic.api.php:28
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/topic.api.php(28): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/topic.api.php on line 28
+[24-Sep-2022 07:17:13 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/blood33a/public_html/tracksy/api/topic.api.php:28
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/topic.api.php(28): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/topic.api.php on line 28
+[24-Sep-2022 07:17:37 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/blood33a/public_html/tracksy/api/topic.api.php:28
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/topic.api.php(28): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/topic.api.php on line 28
+[24-Sep-2022 07:18:10 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/blood33a/public_html/tracksy/api/topic.api.php:28
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/topic.api.php(28): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/topic.api.php on line 28
+[24-Sep-2022 07:20:07 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/blood33a/public_html/tracksy/api/topic.api.php:28
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/topic.api.php(28): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/topic.api.php on line 28
+[24-Sep-2022 15:11:24 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/blood33a/public_html/tracksy/api/topic.api.php:28
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/topic.api.php(28): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/topic.api.php on line 28
+[24-Sep-2022 15:11:54 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/blood33a/public_html/tracksy/api/topic.api.php:28
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/topic.api.php(28): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/topic.api.php on line 28
+[24-Sep-2022 15:14:03 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/blood33a/public_html/tracksy/api/topic.api.php:28
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/topic.api.php(28): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/topic.api.php on line 28
+[24-Sep-2022 15:19:42 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/blood33a/public_html/tracksy/api/topic.api.php:28
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/topic.api.php(28): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/topic.api.php on line 28
+[24-Sep-2022 15:23:27 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_num_rows(): Argument #1 ($result) must be of type mysqli_result, bool given in /home3/blood33a/public_html/tracksy/api/topic.api.php:28
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/topic.api.php(28): mysqli_num_rows(false)
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/topic.api.php on line 28
+[25-Sep-2022 05:14:33 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/blood33a/public_html/tracksy/config/db.php on line 2
+[25-Sep-2022 05:14:33 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home3/blood33a/public_html/tracksy/api/login.api.php:9
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/login.api.php(9): mysqli_query(false, 'select * from u...')
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/login.api.php on line 9
+[25-Sep-2022 05:14:35 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/blood33a/public_html/tracksy/config/db.php on line 2
+[25-Sep-2022 05:14:35 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home3/blood33a/public_html/tracksy/api/login.api.php:9
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/login.api.php(9): mysqli_query(false, 'select * from u...')
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/login.api.php on line 9
+[25-Sep-2022 05:14:36 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/blood33a/public_html/tracksy/config/db.php on line 2
+[25-Sep-2022 05:14:36 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home3/blood33a/public_html/tracksy/api/login.api.php:9
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/login.api.php(9): mysqli_query(false, 'select * from u...')
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/login.api.php on line 9
+[25-Sep-2022 05:14:41 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/blood33a/public_html/tracksy/config/db.php on line 2
+[25-Sep-2022 05:14:41 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home3/blood33a/public_html/tracksy/api/login.api.php:9
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/login.api.php(9): mysqli_query(false, 'select * from u...')
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/login.api.php on line 9
+[25-Sep-2022 05:14:42 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/blood33a/public_html/tracksy/config/db.php on line 2
+[25-Sep-2022 05:14:42 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home3/blood33a/public_html/tracksy/api/login.api.php:9
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/login.api.php(9): mysqli_query(false, 'select * from u...')
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/login.api.php on line 9
+[25-Sep-2022 05:14:52 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/blood33a/public_html/tracksy/config/db.php on line 2
+[25-Sep-2022 05:14:52 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home3/blood33a/public_html/tracksy/api/login.api.php:9
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/login.api.php(9): mysqli_query(false, 'select * from u...')
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/login.api.php on line 9
+[25-Sep-2022 05:14:53 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/blood33a/public_html/tracksy/config/db.php on line 2
+[25-Sep-2022 05:14:53 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home3/blood33a/public_html/tracksy/api/login.api.php:9
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/login.api.php(9): mysqli_query(false, 'select * from u...')
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/login.api.php on line 9
+[25-Sep-2022 05:15:05 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/blood33a/public_html/tracksy/config/db.php on line 2
+[25-Sep-2022 05:15:05 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home3/blood33a/public_html/tracksy/api/login.api.php:9
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/login.api.php(9): mysqli_query(false, 'select * from u...')
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/login.api.php on line 9
+[25-Sep-2022 05:15:51 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/blood33a/public_html/tracksy/config/db.php on line 2
+[25-Sep-2022 05:15:51 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home3/blood33a/public_html/tracksy/api/login.api.php:9
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/login.api.php(9): mysqli_query(false, 'select * from u...')
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/login.api.php on line 9
+[25-Sep-2022 05:16:13 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/blood33a/public_html/tracksy/config/db.php on line 2
+[25-Sep-2022 05:16:13 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home3/blood33a/public_html/tracksy/api/login.api.php:9
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/login.api.php(9): mysqli_query(false, 'select * from u...')
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/login.api.php on line 9
+[25-Sep-2022 05:16:21 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/blood33a/public_html/tracksy/config/db.php on line 2
+[25-Sep-2022 05:16:21 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home3/blood33a/public_html/tracksy/api/login.api.php:9
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/login.api.php(9): mysqli_query(false, 'select * from u...')
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/login.api.php on line 9
+[25-Sep-2022 05:16:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/blood33a/public_html/tracksy/config/db.php on line 2
+[25-Sep-2022 05:16:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home3/blood33a/public_html/tracksy/api/login.api.php:9
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/login.api.php(9): mysqli_query(false, 'select * from u...')
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/login.api.php on line 9
+[25-Sep-2022 05:16:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/blood33a/public_html/tracksy/config/db.php on line 2
+[25-Sep-2022 05:16:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home3/blood33a/public_html/tracksy/api/login.api.php:9
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/login.api.php(9): mysqli_query(false, 'select * from u...')
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/login.api.php on line 9
+[25-Sep-2022 05:16:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/blood33a/public_html/tracksy/config/db.php on line 2
+[25-Sep-2022 05:16:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home3/blood33a/public_html/tracksy/api/login.api.php:9
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/api/login.api.php(9): mysqli_query(false, 'select * from u...')
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/api/login.api.php on line 9

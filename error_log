@@ -1,0 +1,276 @@
+[23-Sep-2022 19:30:03 UTC] PHP Warning:  Undefined variable $row in /home3/blood33a/public_html/tracksy/add_course.php on line 188
+[23-Sep-2022 19:30:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/add_course.php on line 188
+[24-Sep-2022 05:29:39 UTC] PHP Warning:  Undefined array key "course_name" in /home3/blood33a/public_html/tracksy/add_course.php on line 6
+[24-Sep-2022 05:29:39 UTC] PHP Warning:  Undefined array key "topic" in /home3/blood33a/public_html/tracksy/add_course.php on line 8
+[24-Sep-2022 06:06:08 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/add_course.php on line 274
+[24-Sep-2022 06:06:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/add_course.php on line 274
+[24-Sep-2022 06:07:05 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/add_course.php on line 274
+[24-Sep-2022 06:07:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/add_course.php on line 274
+[24-Sep-2022 06:07:20 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/add_course.php on line 274
+[24-Sep-2022 06:07:20 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/add_course.php on line 274
+[24-Sep-2022 06:08:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/register.php on line 4
+[24-Sep-2022 06:09:09 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/add_course.php on line 274
+[24-Sep-2022 06:09:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/add_course.php on line 274
+[24-Sep-2022 06:09:29 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/add_course.php on line 274
+[24-Sep-2022 06:09:29 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/add_course.php on line 274
+[24-Sep-2022 06:10:49 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/login.php on line 34
+[24-Sep-2022 06:10:53 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/login.php on line 34
+[24-Sep-2022 06:11:01 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/add_course.php on line 274
+[24-Sep-2022 06:11:01 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/add_course.php on line 274
+[24-Sep-2022 06:11:01 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/login.php on line 34
+[24-Sep-2022 06:12:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/login.php on line 3
+[24-Sep-2022 06:12:43 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/login.php on line 35
+[24-Sep-2022 06:13:09 UTC] PHP Warning:  Undefined array key "course_name" in /home3/blood33a/public_html/tracksy/add_course.php on line 10
+[24-Sep-2022 06:13:15 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/add_topics.php on line 2
+[24-Sep-2022 06:13:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/add_topics.php on line 9
+[24-Sep-2022 06:20:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/add_topics.php on line 2
+[24-Sep-2022 06:20:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/add_topics.php on line 9
+[24-Sep-2022 06:21:27 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/login.php on line 3
+[24-Sep-2022 06:21:27 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/login.php on line 35
+[24-Sep-2022 06:21:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/login.php on line 3
+[24-Sep-2022 06:21:35 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/login.php on line 35
+[24-Sep-2022 06:22:11 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/register.php on line 3
+[24-Sep-2022 06:22:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/register.php on line 5
+[24-Sep-2022 06:23:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/login.php on line 3
+[24-Sep-2022 06:23:45 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/login.php on line 35
+[24-Sep-2022 06:38:03 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/login.php on line 3
+[24-Sep-2022 06:38:03 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/login.php on line 35
+[24-Sep-2022 06:39:05 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/login.php on line 3
+[24-Sep-2022 06:39:05 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/login.php on line 35
+[24-Sep-2022 06:41:06 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/login.php on line 3
+[24-Sep-2022 06:41:06 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/login.php on line 35
+[24-Sep-2022 06:43:07 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/login.php on line 3
+[24-Sep-2022 06:43:07 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/login.php on line 35
+[24-Sep-2022 06:43:34 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/login.php on line 3
+[24-Sep-2022 06:43:34 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/login.php on line 35
+[24-Sep-2022 06:47:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 06:47:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/login.php on line 3
+[24-Sep-2022 06:47:09 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/login.php on line 35
+[24-Sep-2022 06:48:07 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 06:48:07 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/login.php on line 32
+[24-Sep-2022 06:48:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 06:48:09 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/login.php on line 32
+[24-Sep-2022 06:52:06 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 06:52:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/resource.php:1) in /home3/blood33a/public_html/tracksy/resource.php on line 35
+[24-Sep-2022 06:53:38 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/resource_data.php on line 6
+[24-Sep-2022 06:53:38 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/resource_data.php:1) in /home3/blood33a/public_html/tracksy/resource_data.php on line 8
+[24-Sep-2022 06:53:38 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 06:53:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/resource_data.php on line 6
+[24-Sep-2022 06:53:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/resource_data.php:1) in /home3/blood33a/public_html/tracksy/resource_data.php on line 8
+[24-Sep-2022 06:53:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 06:54:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/resource_data.php on line 6
+[24-Sep-2022 06:54:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/resource_data.php:1) in /home3/blood33a/public_html/tracksy/resource_data.php on line 8
+[24-Sep-2022 06:54:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 06:54:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 06:54:43 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:00:20 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:01:17 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:03:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:03:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/resource_admin.php on line 23
+[24-Sep-2022 07:03:14 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:03:14 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/resource_admin.php on line 23
+[24-Sep-2022 07:03:16 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:03:16 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/resource_admin.php on line 23
+[24-Sep-2022 07:03:18 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:03:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/resource_admin.php on line 23
+[24-Sep-2022 07:03:26 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:03:26 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/login.php on line 32
+[24-Sep-2022 07:03:33 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:03:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/resource_admin.php on line 23
+[24-Sep-2022 07:04:11 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:04:11 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/resource_admin.php on line 22
+[24-Sep-2022 07:04:11 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/resource_admin.php on line 24
+[24-Sep-2022 07:05:27 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:05:27 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/resource.php:1) in /home3/blood33a/public_html/tracksy/resource.php on line 35
+[24-Sep-2022 07:05:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:06:25 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:06:25 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/login.php on line 32
+[24-Sep-2022 07:06:39 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:06:39 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/resource_admin.php on line 22
+[24-Sep-2022 07:06:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/resource_admin.php on line 24
+[24-Sep-2022 07:07:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:08:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:08:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:08:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/resource_admin.php on line 22
+[24-Sep-2022 07:08:35 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/resource_admin.php on line 24
+[24-Sep-2022 07:13:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:13:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/add_topics.php on line 2
+[24-Sep-2022 07:13:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/add_topics.php on line 4
+[24-Sep-2022 07:13:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/add_topics.php on line 10
+[24-Sep-2022 07:13:12 UTC] PHP Warning:  Undefined array key "subject_id" in /home3/blood33a/public_html/tracksy/add_topics.php on line 29
+[24-Sep-2022 07:13:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:13:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/add_topics.php on line 2
+[24-Sep-2022 07:13:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/add_topics.php on line 4
+[24-Sep-2022 07:13:52 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/add_topics.php on line 9
+[24-Sep-2022 07:13:52 UTC] PHP Warning:  Undefined array key "subject_id" in /home3/blood33a/public_html/tracksy/add_topics.php on line 27
+[24-Sep-2022 07:14:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:14:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/add_topics.php on line 2
+[24-Sep-2022 07:14:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/add_topics.php on line 4
+[24-Sep-2022 07:14:57 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/add_topics.php on line 9
+[24-Sep-2022 07:14:57 UTC] PHP Warning:  Undefined array key "subject_id" in /home3/blood33a/public_html/tracksy/add_topics.php on line 27
+[24-Sep-2022 07:16:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:16:13 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/add_topics.php on line 2
+[24-Sep-2022 07:16:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/add_topics.php on line 4
+[24-Sep-2022 07:16:13 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/add_topics.php on line 9
+[24-Sep-2022 07:16:13 UTC] PHP Warning:  Undefined array key "subject_id" in /home3/blood33a/public_html/tracksy/add_topics.php on line 27
+[24-Sep-2022 07:17:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:17:12 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/add_topics.php on line 2
+[24-Sep-2022 07:17:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/add_topics.php on line 4
+[24-Sep-2022 07:17:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/add_topics.php on line 8
+[24-Sep-2022 07:17:12 UTC] PHP Warning:  Undefined array key "subject_id" in /home3/blood33a/public_html/tracksy/add_topics.php on line 26
+[24-Sep-2022 07:17:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:17:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/add_topics.php on line 3
+[24-Sep-2022 07:17:36 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/add_topics.php on line 7
+[24-Sep-2022 07:17:36 UTC] PHP Warning:  Undefined array key "subject_id" in /home3/blood33a/public_html/tracksy/add_topics.php on line 25
+[24-Sep-2022 07:18:09 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:18:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/add_topics.php on line 4
+[24-Sep-2022 07:18:09 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/add_topics.php on line 8
+[24-Sep-2022 07:18:09 UTC] PHP Warning:  Undefined array key "subject_id" in /home3/blood33a/public_html/tracksy/add_topics.php on line 26
+[24-Sep-2022 07:20:07 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:20:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/add_topics.php on line 3
+[24-Sep-2022 07:20:07 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/add_topics.php on line 7
+[24-Sep-2022 07:20:07 UTC] PHP Warning:  Undefined array key "subject_id" in /home3/blood33a/public_html/tracksy/add_topics.php on line 25
+[24-Sep-2022 07:21:40 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:21:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/add_topics.php on line 6
+[24-Sep-2022 07:21:40 UTC] PHP Warning:  Undefined array key "subject_id" in /home3/blood33a/public_html/tracksy/add_topics.php on line 24
+[24-Sep-2022 07:22:40 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:22:40 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/component/header.php on line 5
+[24-Sep-2022 07:22:40 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/resource_admin.php on line 22
+[24-Sep-2022 07:22:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/component/header.php:1) in /home3/blood33a/public_html/tracksy/resource_admin.php on line 24
+[24-Sep-2022 07:24:03 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:24:03 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/component/header.php on line 5
+[24-Sep-2022 07:24:07 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:24:07 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/component/header.php on line 5
+[24-Sep-2022 07:24:54 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:24:54 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/component/header.php on line 5
+[24-Sep-2022 07:24:58 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:24:58 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/component/header.php on line 5
+[24-Sep-2022 07:25:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/head.php on line 2
+[24-Sep-2022 07:25:00 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/component/header.php on line 5
+[24-Sep-2022 07:39:26 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/component/header.php on line 5
+[24-Sep-2022 07:39:30 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/component/header.php on line 5
+[24-Sep-2022 07:40:12 UTC] PHP Warning:  Undefined variable $_SESSION in /home3/blood33a/public_html/tracksy/component/header.php on line 5
+[24-Sep-2022 07:40:12 UTC] PHP Warning:  Undefined array key "subject_id" in /home3/blood33a/public_html/tracksy/add_topics.php on line 24
+[24-Sep-2022 07:42:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/resource.php:1) in /home3/blood33a/public_html/tracksy/resource.php on line 35
+[24-Sep-2022 07:56:05 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/resource_data.php on line 6
+[24-Sep-2022 07:56:05 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/resource_data.php:1) in /home3/blood33a/public_html/tracksy/resource_data.php on line 8
+[24-Sep-2022 07:58:22 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/resource_data.php on line 6
+[24-Sep-2022 07:58:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home3/blood33a/public_html/tracksy/resource_data.php:1) in /home3/blood33a/public_html/tracksy/resource_data.php on line 8
+[24-Sep-2022 08:02:16 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/resource_data.php on line 6
+[24-Sep-2022 14:21:47 UTC] PHP Warning:  Undefined array key "id" in /home3/blood33a/public_html/tracksy/resource.php on line 20
+[24-Sep-2022 14:22:38 UTC] PHP Warning:  Undefined array key "id" in /home3/blood33a/public_html/tracksy/resource.php on line 20
+[24-Sep-2022 14:59:15 UTC] PHP Warning:  Undefined array key "resource_id" in /home3/blood33a/public_html/tracksy/resource_data.php on line 24
+[24-Sep-2022 15:00:12 UTC] PHP Warning:  Undefined array key "resource_id" in /home3/blood33a/public_html/tracksy/resource_data.php on line 24
+[24-Sep-2022 15:00:12 UTC] PHP Warning:  Undefined variable $row in /home3/blood33a/public_html/tracksy/resource_data.php on line 47
+[24-Sep-2022 15:00:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/resource_data.php on line 47
+[24-Sep-2022 15:00:12 UTC] PHP Warning:  Undefined variable $row in /home3/blood33a/public_html/tracksy/resource_data.php on line 48
+[24-Sep-2022 15:00:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/resource_data.php on line 48
+[24-Sep-2022 15:00:12 UTC] PHP Warning:  Undefined variable $row in /home3/blood33a/public_html/tracksy/resource_data.php on line 49
+[24-Sep-2022 15:00:12 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/resource_data.php on line 49
+[24-Sep-2022 15:01:10 UTC] PHP Warning:  Undefined array key "resource_id" in /home3/blood33a/public_html/tracksy/resource_data.php on line 24
+[24-Sep-2022 15:01:10 UTC] PHP Warning:  Undefined variable $row in /home3/blood33a/public_html/tracksy/resource_data.php on line 48
+[24-Sep-2022 15:01:10 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/resource_data.php on line 48
+[24-Sep-2022 15:02:37 UTC] PHP Warning:  Undefined array key "resource_id" in /home3/blood33a/public_html/tracksy/resource_data.php on line 24
+[24-Sep-2022 15:02:37 UTC] PHP Warning:  Undefined variable $row in /home3/blood33a/public_html/tracksy/resource_data.php on line 50
+[24-Sep-2022 15:02:37 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/resource_data.php on line 50
+[24-Sep-2022 15:02:57 UTC] PHP Warning:  Undefined array key "resource_id" in /home3/blood33a/public_html/tracksy/resource_data.php on line 24
+[24-Sep-2022 15:02:57 UTC] PHP Warning:  Undefined variable $row in /home3/blood33a/public_html/tracksy/resource_data.php on line 49
+[24-Sep-2022 15:02:57 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/resource_data.php on line 49
+[24-Sep-2022 15:04:40 UTC] PHP Warning:  Undefined array key "resource_id" in /home3/blood33a/public_html/tracksy/resource_data.php on line 24
+[24-Sep-2022 15:04:40 UTC] PHP Warning:  Undefined variable $row in /home3/blood33a/public_html/tracksy/resource_data.php on line 49
+[24-Sep-2022 15:04:40 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/resource_data.php on line 49
+[24-Sep-2022 15:05:55 UTC] PHP Warning:  Undefined array key "resource_id" in /home3/blood33a/public_html/tracksy/resource_data.php on line 24
+[24-Sep-2022 15:05:55 UTC] PHP Warning:  Undefined variable $row in /home3/blood33a/public_html/tracksy/resource_data.php on line 49
+[24-Sep-2022 15:05:55 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/resource_data.php on line 49
+[24-Sep-2022 15:07:24 UTC] PHP Warning:  Undefined array key "resource_id" in /home3/blood33a/public_html/tracksy/resource_data.php on line 24
+[24-Sep-2022 15:07:24 UTC] PHP Warning:  Undefined variable $row in /home3/blood33a/public_html/tracksy/resource_data.php on line 49
+[24-Sep-2022 15:07:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/resource_data.php on line 49
+[24-Sep-2022 15:08:27 UTC] PHP Warning:  Undefined array key "resource_id" in /home3/blood33a/public_html/tracksy/resource_data.php on line 24
+[24-Sep-2022 15:08:27 UTC] PHP Warning:  Undefined variable $row in /home3/blood33a/public_html/tracksy/resource_data.php on line 49
+[24-Sep-2022 15:08:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/resource_data.php on line 49
+[24-Sep-2022 15:11:24 UTC] PHP Warning:  Undefined array key "resource_id" in /home3/blood33a/public_html/tracksy/resource_data.php on line 24
+[24-Sep-2022 15:11:24 UTC] PHP Warning:  Undefined variable $row in /home3/blood33a/public_html/tracksy/resource_data.php on line 49
+[24-Sep-2022 15:11:24 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/resource_data.php on line 49
+[24-Sep-2022 15:11:53 UTC] PHP Warning:  Undefined array key "resource_id" in /home3/blood33a/public_html/tracksy/resource_data.php on line 24
+[24-Sep-2022 15:11:53 UTC] PHP Warning:  Undefined variable $row in /home3/blood33a/public_html/tracksy/resource_data.php on line 49
+[24-Sep-2022 15:11:53 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/resource_data.php on line 49
+[24-Sep-2022 15:14:03 UTC] PHP Warning:  Undefined variable $row in /home3/blood33a/public_html/tracksy/resource_data.php on line 49
+[24-Sep-2022 15:14:03 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/resource_data.php on line 49
+[24-Sep-2022 15:19:42 UTC] PHP Warning:  Undefined variable $row in /home3/blood33a/public_html/tracksy/resource_data.php on line 49
+[24-Sep-2022 15:19:42 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/resource_data.php on line 49
+[24-Sep-2022 15:23:27 UTC] PHP Warning:  Undefined variable $row in /home3/blood33a/public_html/tracksy/resource_data.php on line 50
+[24-Sep-2022 15:23:27 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/resource_data.php on line 50
+[24-Sep-2022 15:32:05 UTC] PHP Warning:  Undefined variable $row in /home3/blood33a/public_html/tracksy/resource_data.php on line 50
+[24-Sep-2022 15:32:05 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/resource_data.php on line 50
+[24-Sep-2022 15:32:11 UTC] PHP Warning:  Undefined variable $row in /home3/blood33a/public_html/tracksy/resource_data.php on line 50
+[24-Sep-2022 15:32:11 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/resource_data.php on line 50
+[24-Sep-2022 15:33:09 UTC] PHP Warning:  Undefined variable $row in /home3/blood33a/public_html/tracksy/resource_data.php on line 50
+[24-Sep-2022 15:33:09 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/resource_data.php on line 50
+[24-Sep-2022 15:34:00 UTC] PHP Warning:  Undefined variable $row in /home3/blood33a/public_html/tracksy/resource_data.php on line 50
+[24-Sep-2022 15:34:00 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/resource_data.php on line 50
+[24-Sep-2022 15:35:08 UTC] PHP Warning:  Undefined variable $row in /home3/blood33a/public_html/tracksy/resource_data.php on line 50
+[24-Sep-2022 15:35:08 UTC] PHP Warning:  Trying to access array offset on value of type null in /home3/blood33a/public_html/tracksy/resource_data.php on line 50
+[24-Sep-2022 16:51:59 UTC] PHP Warning:  Undefined array key "course_name" in /home3/blood33a/public_html/tracksy/add_course.php on line 10
+[24-Sep-2022 17:55:20 UTC] PHP Warning:  Undefined array key "course_name" in /home3/blood33a/public_html/tracksy/add_course.php on line 10
+[25-Sep-2022 05:14:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/blood33a/public_html/tracksy/config/db.php on line 2
+[25-Sep-2022 05:14:22 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home3/blood33a/public_html/tracksy/config/db.php on line 2
+[25-Sep-2022 05:14:22 UTC] PHP Warning:  Undefined array key "id" in /home3/blood33a/public_html/tracksy/add_course.php on line 70
+[25-Sep-2022 05:14:22 UTC] PHP Fatal error:  Uncaught TypeError: mysqli_query(): Argument #1 ($mysql) must be of type mysqli, bool given in /home3/blood33a/public_html/tracksy/add_course.php:71
+Stack trace:
+#0 /home3/blood33a/public_html/tracksy/add_course.php(71): mysqli_query(false, 'select * from c...')
+#1 {main}
+  thrown in /home3/blood33a/public_html/tracksy/add_course.php on line 71
+[25-Sep-2022 05:41:22 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:41:45 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:41:47 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:41:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:41:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:41:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:41:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:41:52 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:41:53 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:41:53 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:42:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:42:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:43:38 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:43:38 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/header.php on line 5
+[25-Sep-2022 05:43:38 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:43:38 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/header.php on line 5
+[25-Sep-2022 05:43:41 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:43:41 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/component/header.php on line 5
+[25-Sep-2022 05:44:30 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:44:31 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:44:31 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:44:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:44:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:44:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:44:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:44:32 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:44:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:44:51 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:45:08 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:45:36 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:45:55 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:45:57 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:45:58 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:45:59 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:45:59 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:45:59 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:46:00 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:46:28 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:46:30 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:46:31 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:46:33 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:46:33 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:46:33 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:46:33 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:46:33 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:46:34 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:46:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:46:35 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:47:49 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:49:16 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:55:05 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:55:24 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 05:57:21 UTC] PHP Warning:  session_start(): Session cannot be started after headers have already been sent in /home3/blood33a/public_html/tracksy/index.php on line 3
+[25-Sep-2022 06:04:43 UTC] PHP Warning:  Undefined array key "course_name" in /home3/blood33a/public_html/tracksy/add_course.php on line 9
