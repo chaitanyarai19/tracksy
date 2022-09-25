@@ -30,7 +30,10 @@ Tracksy is now all set to be teacher's most favoured go to application whenevr t
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ## UI of the project :computer:
-![Screenshot (5)](https://user-images.githubusercontent.com/95706615/192128391-0d4c9db5-bfd7-40ad-8dc3-9b5581f29152.png)
+Home Screen | Login Page
+--- | ---
+![Screenshot (5)](https://user-images.githubusercontent.com/95706615/192128391-0d4c9db5-bfd7-40ad-8dc3-9b5581f29152.png) | ![Screenshot (6)](https://user-images.githubusercontent.com/95706615/192128533-ae61e9e8-2004-48d5-9410-b29e43904e48.png)
+
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## Tech stack :book:
