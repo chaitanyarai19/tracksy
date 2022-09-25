@@ -100,7 +100,7 @@ if (isset($_GET['type']) && $_GET['type'] == 'upload') {
     if (move_uploaded_file($tmpFileName, "../src/upload/" . $newFileName)) {
       $sql = "UPDATE topic SET docs = '$newFileName' WHERE id = $id";
       if (mysqli_query($conn, $sql)) {
-        echo " <div class='alert alert-success'>Upload Success</div>";
+        echo 'success';
       } else {
         echo " <div class='alert alert-danger'>Failed to Upload</div>";
         unlink('../src/upload/' . $newFileName);
