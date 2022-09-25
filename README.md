@@ -28,6 +28,10 @@ they can't add or delete the topics.
 ## Challenges we ran into 	:warning:
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
+- We faced an issue while creating different sections for teachers & students.
+- Next challenge we faced was while integrating webcam / camera access in our web application.
+- Another challenge was to put enable & disable constraints differently for admins & users at the same time.
+
 ## Accomplishments we are proud of :woman_office_worker::technologist:
 - We are proud to make this project functional and working to help our teachers in a certain manner. 
 - As we have 50% of our team members who are new to this hackathon and participating for the first time, we are immensely proud of achieving a good team contribution with each of the members having contributed in the project in some way or the other. 
