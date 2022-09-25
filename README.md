@@ -51,7 +51,9 @@ Tracksy is now all set to be teacher's most favoured go to application whenevr t
 Home Screen | Login Page
 --- | ---
 ![Screenshot (5)](https://user-images.githubusercontent.com/95706615/192128391-0d4c9db5-bfd7-40ad-8dc3-9b5581f29152.png) | ![Screenshot (6)](https://user-images.githubusercontent.com/95706615/192128533-ae61e9e8-2004-48d5-9410-b29e43904e48.png)
-
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+## Contributions :handshake:
+![Screenshot (8)](https://user-images.githubusercontent.com/95706615/192131909-164354a0-7710-4645-97c5-7f93c0a590b2.png)
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## Tech stack :book:
