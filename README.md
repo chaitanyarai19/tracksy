@@ -11,7 +11,6 @@ This way he/she can keep a track of the syllabus & get rid off from the last min
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ## How we built it? :hammer_and_wrench:	
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 - We used Html, css, jQuery, ajax & Javascript in the frontend and Php for the backend with Mysql as our database. 
 
@@ -25,12 +24,15 @@ the topics picture for tracking.
 - For the students we have another resource section where teacher and student both can contribute for resources such as notes,imp questions,time table etc. Only teachers have rights to create and delete subjects for resources , students can only see or upload the resources for that topic 
 they can't add or delete the topics.
 
-## Challenges we ran into 	:warning:
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
+## Challenges we ran into 	:warning:
 - We faced an issue while creating different sections for teachers & students.
 - Next challenge we faced was while integrating webcam / camera access in our web application.
 - Another challenge was to put enable & disable constraints differently for admins & users at the same time.
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ## Accomplishments we are proud of :woman_office_worker::technologist:
 - We are proud to make this project functional and working to help our teachers in a certain manner. 
@@ -40,7 +42,7 @@ they can't add or delete the topics.
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## What we learnt :anchor:
 As a team with 50% new members, we learnt many technologies and had an experience working on it as well. Such as the GitHub and the GitHub pages were something we were introduced for the first time.
-
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## What's next for Tracksy :rocket:
 Tracksy is now all set to be teacher's most favoured go to application whenevr they need to track their curriculum syllabus. In the near future we would also integrate other facilities like attendance tracking or student's performance tracking to make teacher's work even more easier.
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
@@ -51,10 +53,16 @@ Home Screen | Login Page
 ![Screenshot (5)](https://user-images.githubusercontent.com/95706615/192128391-0d4c9db5-bfd7-40ad-8dc3-9b5581f29152.png) | ![Screenshot (6)](https://user-images.githubusercontent.com/95706615/192128533-ae61e9e8-2004-48d5-9410-b29e43904e48.png)
 
 
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+## Contributions :handshake:
+![Screenshot (8)](https://user-images.githubusercontent.com/95706615/192131909-164354a0-7710-4645-97c5-7f93c0a590b2.png)
+
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## Tech stack :book:
-- **Backend**- PHP
-- **Frontend**- HTML, CSS, Javascript, JQuery, Ajax, Bootstrap
-- **Tools**- GitHub
-- **Database**- MySQL
-- **API** - font-awesome
+- **Backend**-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+- **Frontend**- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+- **Version Control**- ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+- **Database**- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+
