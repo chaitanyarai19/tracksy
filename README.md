@@ -49,5 +49,8 @@ Home Screen | Login Page
 
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 ## Tech stack :book:
-- PHP
-- GitHub
+- **Backend**- PHP
+- **Frontend**- HTML, CSS, Javascript, JQuery, Ajax, Bootstrap
+- **Tools**- GitHub
+- **Database**- MySQL
+- **API** - font-awesome
