@@ -12,6 +12,7 @@ This way he/she can keep a track of the syllabus & get rid off from the last min
 
 ## How we built it? :hammer_and_wrench:	
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
 -We used Html, css, jQuery, ajax & Javascript in the frontend and Php for the backend with Mysql as our database. 
 
 - We have made two different sections for teachers and students.
