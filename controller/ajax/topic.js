@@ -50,11 +50,8 @@ $("#create_topic").on("submit", function (e) {
         })
     })
     $(document).on('click','.accesscamerafortopic', function() {
-        console.log("run");
         $("#topic_id").val($(this).data('id'));
         $("#name").val($(this).data('name'));
-        console.log($(this).data('id'));
-        console.log($(this).data('name'));
         Webcam.reset();
         Webcam.on('error', function() {
             $('#photoModal').modal('hide');
@@ -79,7 +76,6 @@ $("#create_topic").on("submit", function (e) {
             //     $("#loader").show();
             // },
             success: function (data) {
-                console.log(data);
                 if(data == 'success') {
                     Webcam.reset();
 

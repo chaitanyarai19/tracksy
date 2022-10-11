@@ -14,7 +14,7 @@ $(document).ready(function(){
             success: function (data) {
                 
                 data = $.parseJSON(data);
-                console.log(data);
+                // console.log(data);
                 if (data.status == true) {
                     $("#login_message").html("<div class='alert alert-success'>Login Success</div>");
                     window.location.href = "add_course.php";

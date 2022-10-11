@@ -5,7 +5,9 @@ $(document).ready(function() {
         image_format: 'jpeg',
         jpeg_quality: 90
     });
-
+    $(document).on('click','#close',function(){
+        Webcam.reset();
+    })
     $(document).on('click','.accesscamera', function() {
         Webcam.reset();
         Webcam.on('error', function() {
