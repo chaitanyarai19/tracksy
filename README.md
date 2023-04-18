@@ -9,7 +9,6 @@ Here teachers can create his/her account & add topics of the subject for the ses
 
 This way he/she can keep a track of the syllabus & get rid off from the last minute hustle .
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
 ## How we built it? :hammer_and_wrench:	
 
